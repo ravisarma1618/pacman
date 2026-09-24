@@ -211,7 +211,7 @@ function drawPacman() {
 
 	var ctx = getPacmanCanevasContext();
 	
-	ctx.fillStyle = "#fff200";
+	ctx.fillStyle = "#ff1493";
 	ctx.beginPath();
 	
 	var startAngle = 0;
